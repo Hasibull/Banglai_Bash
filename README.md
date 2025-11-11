@@ -1,4 +1,4 @@
-# 🐧 Bash Scripting Tutorial in Bangla
+# 🐧 Learn Bash Scripting in Bangla
 
 প্রথমেই যে প্রশ্নটা মাথায় আসে তা হলো, Bash Scripting কী এবং কেন শিখব?🎯
 
