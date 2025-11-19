@@ -1,2 +1,2 @@
-# display output
-echo "Hello world!"
+#!/bin/bash
+echo "Hello, Bash!"
