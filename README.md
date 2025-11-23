@@ -25,3 +25,11 @@ mkdir test
 - DevOps ও System Admin কাজ
 - Embedded Linux / Firmware Automation
 
+Bash–এর মূল কাজ হলো Operating System (OS)-এর কমান্ডগুলো চালানো, তবে Bash এর অনেক ফিচার Programming Language গুলোর সাথে মিল আছে! যেমনঃ
+- Variable
+- Conditional operator
+- Loop
+- Function
+
+এই সাদৃশ্যগুলো দেখে হয়তো মনে হতে পারে, Bash Scripting ও কোন Programming Language!
+
