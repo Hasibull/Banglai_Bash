@@ -1,0 +1,1 @@
+**WSL (Windows Sub-system for Linux)** হলো Windows 10/11 এর ভিতরে Linux চালানোর একটি Light-weight, দ্রুত এবং নেটিভ উপায়। এর জন্য আলাদা Virtual Machine বা Dual Boot দরকার হয় না!
